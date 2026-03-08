@@ -1,4 +1,3 @@
-```sql
 -- ====================================================
 -- DATA SEGMENTATION
 -- Grouping products and customers into meaningful segments
